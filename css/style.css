@@ -1,0 +1,13 @@
+body{background-color:lightcyan;
+    }
+header{display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(102, 102, 231);
+    color: brown;
+}
+h1{padding:1rem}
+button{width: 5vw;
+        height: 5vh;
+       }
